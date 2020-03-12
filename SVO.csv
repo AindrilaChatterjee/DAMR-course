@@ -1,0 +1,27 @@
+,revno,sentence,subject,verb,object
+0,1,"""Good looking phone, sturdy, gorgeous screen and unlimited music (Nokia music), free updated GPS maps from most of the world, the apps I need and a clean interface.","I: -PRON-: PRON,",maps,
+1,1,"I don't like spending time customizing the appearance of a phone, with this you have to e productive, it does the jo.","I: -PRON-: PRON,you: -PRON-: PRON,it: -PRON-: PRON,",does,"time: time: NOUN,appearance: appearance: NOUN,jo: jo: PROPN,"
+2,1,"I can say it is really a steal for the (recent) price.<r /> Last week it got just etter with the upgraded to 7.8""","I: -PRON-: PRON,it: -PRON-: PRON,it: -PRON-: PRON,",got,"etter: etter: NOUN,"
+3,2,"""love the phone ut its not new first phone the screen was gouged and could tell instantly it was a used phone.","it: -PRON-: PRON,",love,"phone: phone: NOUN,phone: phone: NOUN,"
+4,2,second phone screen scratched not gouged like first phone ut still scratched eing offered as new don't fall for it.,"screen: screen: NOUN,eing: ee: VERB,",gouged,
+5,2,"as far as the phone itself great phone played with the windows with my Wi-Fi deating if I wanna keep it or not if its takes as long to receive a refund as it did my second phone from talet distriutors I might as well keep it as my current provider service is failing fast in my area""","phone: phone: NOUN,I: -PRON-: PRON,wanna: wanna: VERB,it: -PRON-: PRON,I: -PRON-: PRON,service: service: NOUN,",keep,"it: -PRON-: PRON,refund: refund: NOUN,phone: phone: NOUN,it: -PRON-: PRON,"
+6,3,'This phone really made me happy.,"phone: phone: NOUN,me: -PRON-: PRON,",made,
+7,3,I wanted to save money so I went with an unlocked on a pay as you go plan.,"I: -PRON-: PRON,I: -PRON-: PRON,you: -PRON-: PRON,",went,"money: money: NOUN,plan: plan: NOUN,"
+8,3,The WP7.8 is great.,"WP7.8: WP7.8: PROPN,",is,
+9,3,It does take a little setting up to get the est results.,"It: -PRON-: PRON,",take,"setting: setting: NOUN,results: result: NOUN,"
+10,3,I am getting a lot more out of it than I got from my Iphone.,"I: -PRON-: PRON,I: -PRON-: PRON,",getting,
+11,3,The screen is a great size the candy ar shape Is great in your hand.,"screen: screen: NOUN,shape: shape: NOUN,",Is,
+12,3,The weight is perfect for me does not feel like a piece of plastic.,"weight: weight: NOUN,",is,
+13,3,The speaker on the phone is etter quality than the Iphone.,"speaker: speaker: NOUN,",is,
+14,3,The music quality is good and the nokia specific windows phone apps are really good particularly the Nokia Music and the City Lens.,"quality: quality: NOUN,apps: app: NOUN,",is,
+15,3,I will mention although this is no reflection on the phone itself that the numer of apps availale did not match the iphone ut I can still use my rowser to access some of the missing anking apps.,"I: -PRON-: PRON,this: this: DET,numer: numer: NOUN,I: -PRON-: PRON,",use,"iphone: iphone: NOUN,rowser: rowser: NOUN,some: some: DET,"
+16,3,The accessories are resnoly priced also.',"accessories: accessory: NOUN,",are,
+17,4,"""My order was fulfilled y TABLET DISTRIBUTORS without incident.",,fulfilled,
+18,4,This is an AT&T phone it has their logo on the front and on the oot up screen.,"This: this: DET,it: -PRON-: PRON,",has,"logo: logo: NOUN,screen: screen: NOUN,"
+19,4,I am using it with no prolems on prepaid T-Moile no data service.,"I: -PRON-: PRON,",using,"it: -PRON-: PRON,"
+20,4,This phone is a little heavier than I expected from a plastic phone.,"phone: phone: NOUN,I: -PRON-: PRON,",is,
+21,4,It can e updated to WP 7.8 ut not any further.,"It: -PRON-: PRON,",updated,"7.8: 7.8: NUM,"
+22,4,"The update process wasn't exactly easy, ut it is doale.<r /><r />For my purposes the attery makes it through aout 10 hours, etween recharges.<r />On the downside since it can't e upgraded to WP 8.0 there is no way for you to transfer music to it without a cale and the Zune software, which isn't as ad as I feared, ut still annoying.","process: process: NOUN,it: -PRON-: PRON,purposes: purpose: NOUN,attery: attery: NOUN,downside: downside: NOUN,it: -PRON-: PRON,e: e: VERB,you: -PRON-: PRON,which: which: DET,I: -PRON-: PRON,",is,"it: -PRON-: PRON,8.0: 8.0: NUM,music: music: NOUN,"
+23,4,"The Bluetooth pairing works well with my 2013 Suaru and my Panasonic home phone.<r /><r />It syncs with your google account for contacts ok, ut numers with a custom lael are not synced, unfortunately.""","pairing: pair: VERB,",synced,
+24,5,'I like all nokia products and this is awasome.,"I: -PRON-: PRON,this: this: DET,",like,"products: product: NOUN,"
+25,5,"Besides, my son ought for a gift and it works perfectly.'","son: son: NOUN,it: -PRON-: PRON,",ought,
