@@ -1,0 +1,2 @@
+outsheet using dynass.csv , comma
+outsheet gyear patent pdpass using abcd.csv , comma
